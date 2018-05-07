@@ -6,14 +6,14 @@ about: Apart from slack bot there could a bot in each stage so as to help the on
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Is your feature request related to a problem? Please describe.
+Yeah it is a problem faced by most new members in a stage.
 
 **Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+Creation of a bot that not only directs you to the help page byt a bot that directs you to a specific mentor meant to handle that specific problem or to the correct answer according to the question.
 
 **Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+Creation of a new bot.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
